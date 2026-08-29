@@ -1,0 +1,13 @@
+{
+  "id": "conv-1787963871632-mll2aukbd",
+  "providerId": "claude",
+  "title": "初始化Git仓库并推送到GitHub",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787963871636,
+  "updatedAt": 1787963877525,
+  "sessionId": "4e6ec800-8936-437c-88cf-3b9702d83109",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4e6ec800-8936-437c-88cf-3b9702d83109"
+  }
+}

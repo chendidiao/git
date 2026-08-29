@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785768087729-xig1ngw8s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785768087793-8z9dibt",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785768087727-eiam2bo",
+      "timestamp": 1785768087727,
+      "rawDisplayText": "/teach",
+      "canonicalText": "/teach",
+      "context": {
+        "currentNote": {
+          "path": "高等数学/正弦函数.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5776f066699d6207eb37e8ec56d1c27e701133af32a0f81d174f1953f8e83563",
+      "providerUserMessageId": "f82e587b-74ce-4083-94f8-00659e27dd57",
+      "providerAssistantMessageId": "b312554c-e8b6-4c8d-bc11-f2c27902cece"
+    }
+  ]
+}

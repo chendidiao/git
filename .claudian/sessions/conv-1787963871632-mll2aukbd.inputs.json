@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787963871632-mll2aukbd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787963872808-klfkqi7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787963871629-qb8to72",
+      "timestamp": 1787963871629,
+      "rawDisplayText": "把该文件夹初始化为git项目，并且推送到GitHub上面",
+      "canonicalText": "把该文件夹初始化为git项目，并且推送到GitHub上面",
+      "context": {
+        "currentNote": {
+          "path": "创业质询/虚拟资产核算创业-L0工具层.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "761fe1daa01dcc68d528701c9e0c755c4d57e04a982732f96163941e10442cd2",
+      "providerUserMessageId": "f875aebc-2662-4692-9d96-c272e81643bd"
+    }
+  ]
+}

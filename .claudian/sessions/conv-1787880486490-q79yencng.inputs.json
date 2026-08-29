@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787880486490-q79yencng",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787880487578-3hemrxt",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787880486487-ia55pz3",
+      "timestamp": 1787880486487,
+      "rawDisplayText": "反三角函数图像",
+      "canonicalText": "反三角函数图像",
+      "context": {
+        "currentNote": {
+          "path": "高等数学/极限.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "817186d9bd80d078fed31bf6274fbd3aae9d72516efa731d08bfcafe40d51712",
+      "providerUserMessageId": "4dc234d6-bbe8-4c68-af5b-dd7496a51b81",
+      "providerAssistantMessageId": "a2b99b8a-78ab-4ef8-93b6-75195c314a38"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785767029859-q87td809k",
+  "providerId": "claude",
+  "title": "修复cc-switch安装Claude时npm命令未找到错误",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785767029863,
+  "updatedAt": 1786705094514,
+  "lastResponseAt": 1785767991934,
+  "sessionId": "a459e171-1e33-4b66-9809-04e3ffa9488c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a459e171-1e33-4b66-9809-04e3ffa9488c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 162,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23424,
+    "contextWindow": 200000,
+    "contextTokens": 23586,
+    "percentage": 12
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786706231817-hqerfkvc2",
+  "providerId": "claude",
+  "title": "核算虚拟资产",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786706231821,
+  "updatedAt": 1787923013174,
+  "lastResponseAt": 1787923013174,
+  "sessionId": "9b261b8c-ac36-4900-8e17-40926abcf113",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9b261b8c-ac36-4900-8e17-40926abcf113"
+  },
+  "currentNote": "创业质询/虚拟资产核算创业.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 169955,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 169955,
+    "percentage": 85
+  }
+}

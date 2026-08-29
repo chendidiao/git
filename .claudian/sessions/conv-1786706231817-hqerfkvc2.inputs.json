@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786706231817-hqerfkvc2",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786706233017-3ssrxte",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786706231814-lmo8eqf",
+      "timestamp": 1786706231814,
+      "rawDisplayText": "虚拟资产核算",
+      "canonicalText": "虚拟资产核算",
+      "context": {
+        "currentNote": {
+          "path": "创业质询/虚拟资产核算创业.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "44df8bba2eefa36941e75c18dd27494607d830d868bf08dff2e3a0427e484405",
+      "providerUserMessageId": "06f97c64-af3f-41b2-b154-9fdf43a48048",
+      "providerAssistantMessageId": "9545fabc-8b1f-497d-8b09-91b8e2c47240"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786760153285-omuosiu",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786760153282-nelg2hl",
+      "timestamp": 1786760153282,
+      "rawDisplayText": "改一下，以三角洲行动为游戏实例，主要核算游戏货币，和一些游戏道具",
+      "canonicalText": "改一下，以三角洲行动为游戏实例，主要核算游戏货币，和一些游戏道具",
+      "images": [],
+      "contentDigest": "050a80fc5f8fac2b8caae3ba4baab27bfce09aea20878d140a75c67d6479f170",
+      "providerUserMessageId": "fa664d7a-342a-4089-8b5c-107f695b3209",
+      "providerAssistantMessageId": "d4784e4d-1f37-41f9-9cea-98fcec519aab"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786760989979-okg0jtx",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786760989975-wsgc3wy",
+      "timestamp": 1786760989975,
+      "rawDisplayText": "但是玩家成交账号金额并不高，一般都是500到1000左右，这个税务问题？",
+      "canonicalText": "但是玩家成交账号金额并不高，一般都是500到1000左右，这个税务问题？",
+      "images": [],
+      "contentDigest": "d18f7b7030743ee94a84ab7d26342139a0a9a4528a681dc92dbec82f63865d74",
+      "providerUserMessageId": "53c2fc1d-4b90-401d-b1fa-ed79ca32ca24",
+      "providerAssistantMessageId": "4cc9efb0-607c-4c4f-b1a1-0d088e85b3ac"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786765691531-m2lnz6j",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786765691525-ld56v71",
+      "timestamp": 1786765691525,
+      "rawDisplayText": "游戏货币与现实资产之间的兑换比例证明",
+      "canonicalText": "游戏货币与现实资产之间的兑换比例证明",
+      "images": [],
+      "contentDigest": "82463b59057b8b32bafdf6a9635f337f46bf94f4a169e752e49b14aadd6e959e",
+      "providerUserMessageId": "b3ea43ba-6792-4489-928a-9b82261a2f34",
+      "providerAssistantMessageId": "fece69cc-4fa2-40f7-bd77-86604914e9f3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786765812931-nq93qti",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786765812926-85vorq6",
+      "timestamp": 1786765812926,
+      "rawDisplayText": "黄金与人名币的兑换比例是怎么来的？",
+      "canonicalText": "黄金与人名币的兑换比例是怎么来的？",
+      "images": [],
+      "contentDigest": "7c34cb4020b64fd6e0e3d160e75d643c5c6574e1553175e3c0adf96ee48adbc0",
+      "providerUserMessageId": "81cd1e1b-f869-4567-94f1-4b64275d93ec",
+      "providerAssistantMessageId": "28a4f0c9-ad44-46bb-9a6f-90739e5756a9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786766483964-11zlknj",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786766483958-hbz4qor",
+      "timestamp": 1786766483958,
+      "rawDisplayText": "不，我的意思是实物黄金和人民币的兑换比例由来，这样我可以对比哲尝试做游戏货币与人民币兑换由来，还有三角洲的金条是游戏道具，只值30w哈弗比，对应人名币大概7角左右",
+      "canonicalText": "不，我的意思是实物黄金和人民币的兑换比例由来，这样我可以对比哲尝试做游戏货币与人民币兑换由来，还有三角洲的金条是游戏道具，只值30w哈弗比，对应人名币大概7角左右",
+      "images": [],
+      "contentDigest": "c302180f1ba53717eac5b13c62055265f740a2cb106d7b24f5d45d25f3ee6db6",
+      "providerUserMessageId": "23e1609c-53c7-45fe-b658-57c471003eab",
+      "providerAssistantMessageId": "32e0fafd-71a4-4035-bfb2-4a7ae4b5a558"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786782400075-7ucw564",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786782400066-nmrk60v",
+      "timestamp": 1786782400066,
+      "rawDisplayText": "目前能查到的游戏数据比例是44哈夫币对应1人民币，现在需要做好底层的汇率逻辑",
+      "canonicalText": "目前能查到的游戏数据比例是44哈夫币对应1人民币，现在需要做好底层的汇率逻辑",
+      "images": [],
+      "contentDigest": "6c84121f0c7e770b16bcb79ba9bf4a466bb6ef7b045502e475e77559717911a9",
+      "providerUserMessageId": "508d4181-b897-42d5-b40d-440737baed80",
+      "providerAssistantMessageId": "d451459c-8ab3-4816-afce-1c96b72eb6e7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786782822106-66ydgx5",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786782822099-kpjgb3z",
+      "timestamp": 1786782822100,
+      "rawDisplayText": "兑换比例的证明只能来自玩家自己的成交记录，所以我现在如何大量获取这个成交记录？",
+      "canonicalText": "兑换比例的证明只能来自玩家自己的成交记录，所以我现在如何大量获取这个成交记录？",
+      "images": [],
+      "contentDigest": "e45081b1ba91baa24f03f6b7091c69423ff4f2d2a9cdbfcceb76865e964ce2e2",
+      "providerUserMessageId": "65f2023c-2e05-435f-979d-ce846073c5e5",
+      "providerAssistantMessageId": "0333b325-82e6-4334-a9aa-fce8ec4808c1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786783311588-6ufwb5j",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786783311580-ao0ersb",
+      "timestamp": 1786783311581,
+      "rawDisplayText": "如何让核算的虚拟资产能够做到法律上的现实资产等价，简单来说就是当我虚拟资产遭受损失后，我能够认定该与现实资产等价的虚拟资产作为赔偿证明",
+      "canonicalText": "如何让核算的虚拟资产能够做到法律上的现实资产等价，简单来说就是当我虚拟资产遭受损失后，我能够认定该与现实资产等价的虚拟资产作为赔偿证明",
+      "images": [],
+      "contentDigest": "4baaecc6fde8112ad518bb352f465d61b8cae3f0f9c6e5f13a28a457ba10e350",
+      "providerUserMessageId": "723fab26-1d71-40f7-a9e9-cb00e31b076d",
+      "providerAssistantMessageId": "050369b4-00dc-4571-9756-26b57e1232ff"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786784093429-03lsjdz",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1786784093422-qowhf2y",
+      "timestamp": 1786784093422,
+      "rawDisplayText": "先暂时不考虑定价，先把这个技术搞出来，现在具体聊聊上面提到的那三个条件",
+      "canonicalText": "先暂时不考虑定价，先把这个技术搞出来，现在具体聊聊上面提到的那三个条件",
+      "images": [],
+      "contentDigest": "1b3e76fe14d3e0df241db3455828273412b23a41c15a8f50dab24e1cc6318e1f",
+      "providerUserMessageId": "2918f015-b382-4cd1-b3a5-4e977ebfc41a",
+      "providerAssistantMessageId": "36cbebad-34d9-407f-a11b-c3105d9d0cba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786795086023-baitlkd",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1786795086019-76cr7lx",
+      "timestamp": 1786795086019,
+      "rawDisplayText": "**L0 工具层（第 1-2 周，与访谈并行）**：命令行 10 条 / Git 增删改回退 / VS Code / 浏览器 DevTools（Console+Application+Network——查 IndexedDB 和报错）/ AI 工具（Claude Code/Cursor）",
+      "canonicalText": "**L0 工具层（第 1-2 周，与访谈并行）**：命令行 10 条 / Git 增删改回退 / VS Code / 浏览器 DevTools（Console+Application+Network——查 IndexedDB 和报错）/ AI 工具（Claude Code/Cursor）",
+      "context": {
+        "editorSelection": {
+          "notePath": "创业质询/虚拟资产核算创业.md",
+          "mode": "selection",
+          "selectedText": "**L0 工具层（第 1-2 周，与访谈并行）**：命令行 10 条 / Git 增删改回退 / VS Code / 浏览器 DevTools（Console+Application+Network——查 IndexedDB 和报错）/ AI 工具（Claude Code/Cursor）",
+          "lineCount": 1,
+          "startLine": 63
+        }
+      },
+      "images": [],
+      "contentDigest": "e12c19184bbba82a5e29129d0fb8fdbedb63ff40e1d35e8e462b10e41b169c15",
+      "providerUserMessageId": "71f17212-632a-4963-b60f-8ac86253901b",
+      "providerAssistantMessageId": "1db7ab06-8520-48f0-836e-e5a42ecf359b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786796088454-hwjp8x8",
+      "userTurnOrdinal": 12,
+      "state": "accepted",
+      "localMessageId": "msg-1786796088451-lrc7ei5",
+      "timestamp": 1786796088451,
+      "rawDisplayText": "在三角洲行动生态里面，写的那个金条，不是游戏的重要资产核算内容，核算内容主要是游戏货币哈夫币",
+      "canonicalText": "在三角洲行动生态里面，写的那个金条，不是游戏的重要资产核算内容，核算内容主要是游戏货币哈夫币",
+      "context": {
+        "editorSelection": {
+          "notePath": "创业质询/虚拟资产核算创业.md",
+          "mode": "selection",
+          "selectedText": "三角洲行动生态",
+          "lineCount": 1,
+          "startLine": 121
+        }
+      },
+      "images": [],
+      "contentDigest": "4c4128c94608953539fbdca4f40f6edaaff541bd3c6bc1c46c9316a6255c879e",
+      "providerUserMessageId": "b7267ccf-ceee-4877-ac4a-f10794fd5af0",
+      "providerAssistantMessageId": "522b657e-b4cd-4143-836e-e2880822b4f5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787922992725-hg4k913",
+      "userTurnOrdinal": 13,
+      "state": "accepted",
+      "localMessageId": "msg-1787922992705-0qgmmqq",
+      "timestamp": 1787922992705,
+      "rawDisplayText": "git是什么？干嘛用的？",
+      "canonicalText": "git是什么？干嘛用的？",
+      "images": [],
+      "contentDigest": "d2f9ba2b6850762a6604ee1d6c309519a3796b41f5fc66ae2d25b1677fcdab22",
+      "providerUserMessageId": "7ea5edeb-04ae-427b-9585-8c08833157ad",
+      "providerAssistantMessageId": "46fa0582-e8e2-4a58-aa76-e3c1b208aba8"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785766892187-7cibsr4iz",
+  "providerId": "claude",
+  "title": "回应高等数学能力询问",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785766892191,
+  "updatedAt": 1787880461980,
+  "lastResponseAt": 1785768366423,
+  "sessionId": "8887a2fb-95dd-4dee-9f11-5faf85d1493f",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "8887a2fb-95dd-4dee-9f11-5faf85d1493f"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 25,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54784,
+    "contextWindow": 1000000,
+    "contextTokens": 54809,
+    "percentage": 5
+  }
+}

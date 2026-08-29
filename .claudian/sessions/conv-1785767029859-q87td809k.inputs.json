@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785767029859-q87td809k",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785767029936-ra6goe7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785767029854-4fcncvs",
+      "timestamp": 1785767029854,
+      "rawDisplayText": "我cc-switch中安装 claude的时候报错： 'npm' 不是内部或外部命令，也不是可运行的程序 或批处理文件",
+      "canonicalText": "我cc-switch中安装 claude的时候报错： 'npm' 不是内部或外部命令，也不是可运行的程序 或批处理文件",
+      "context": {
+        "currentNote": {
+          "path": "欢迎.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "f136534ca52c65a5654c21996dc5c5b8d54c51546160991e47280e86a4b76580",
+      "providerUserMessageId": "5762f685-4809-4cc1-abf0-d78614626125",
+      "providerAssistantMessageId": "0782542d-afc0-4a28-a75b-b4f46713b7f6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785767879052-xrmp4y6",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785767879047-1opfm3r",
+      "timestamp": 1785767879047,
+      "rawDisplayText": "那你帮我下载安装python3吧.最新稳定版的",
+      "canonicalText": "那你帮我下载安装python3吧.最新稳定版的",
+      "images": [],
+      "contentDigest": "4a8e3ca478934268f8d07e046bc5dbc811a1f1e1c4833af2c34e0ec38e238ad2",
+      "providerUserMessageId": "384d1427-b7e8-4f4a-9106-68018b114f7b",
+      "providerAssistantMessageId": "cbad4838-be8a-4a07-beb4-7dbafcb0551a"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785766892187-7cibsr4iz",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785766892606-g9qijiu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785766892182-wyafxtu",
+      "timestamp": 1785766892182,
+      "rawDisplayText": "你好，你懂高等数学吗？",
+      "canonicalText": "你好，你懂高等数学吗？",
+      "images": [],
+      "contentDigest": "d5c8541d5751e6091cbc7506bc8c64cea5d01d7a726ca679216884bc733c036c",
+      "providerUserMessageId": "7033a988-4ebc-4010-8d32-fff518127e05",
+      "providerAssistantMessageId": "41e00b4e-1435-4020-b5be-065613e66ba6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785766948901-6yflvoo",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785766948897-bmr9hsz",
+      "timestamp": 1785766948897,
+      "rawDisplayText": "你帮我搜索一下今天成都的天气吧",
+      "canonicalText": "你帮我搜索一下今天成都的天气吧",
+      "images": [],
+      "contentDigest": "7030c0e5a5fd545050fe9d342ddc6c8452e691d88eb568b8db9a30a172fed069",
+      "providerUserMessageId": "45c2f6fd-e7d2-4487-ad22-d5828ec649f3",
+      "providerAssistantMessageId": "78fe75b9-3091-4ad7-a126-45d06f14fa24"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785767623462-a3w1623",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785767623457-3ritsav",
+      "timestamp": 1785767623457,
+      "rawDisplayText": "我在学习正弦函数，你能在 @高等数学/正弦函数.md  给我写一个基础教程吗？甚至能在教程中画出它的常规图像吗？",
+      "canonicalText": "我在学习正弦函数，你能在 @高等数学/正弦函数.md  给我写一个基础教程吗？甚至能在教程中画出它的常规图像吗？",
+      "images": [],
+      "contentDigest": "086c0b16fa151ea21a0c9ab7bd56021add2fb45bf11df8105b1a93971a2e8445",
+      "providerUserMessageId": "d16e3605-49e4-44f8-91f6-6d56d5b32f85",
+      "providerAssistantMessageId": "d6bf6a7d-6be4-4e49-815a-de1be7a2ce11"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785768027981-8239v6u",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785768027977-2dbp5g0",
+      "timestamp": 1785768027977,
+      "rawDisplayText": "我已经装好python了，用python来画呢。",
+      "canonicalText": "我已经装好python了，用python来画呢。",
+      "images": [],
+      "contentDigest": "304ea9e6a756f3090b3b85d00c24a8490e106e5b831e71654a17f541ed4d1643",
+      "providerUserMessageId": "fdb90e4d-b278-430e-9ec3-febd3dbb8eb9",
+      "providerAssistantMessageId": "a66b169a-5fae-4206-9d98-29003626b51b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785768360502-9tnazl7",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1785768360498-cx918g6",
+      "timestamp": 1785768360498,
+      "rawDisplayText": "你直接给我运行",
+      "canonicalText": "你直接给我运行",
+      "images": [],
+      "contentDigest": "19dfbbc25c1f51ecaccae39e5624ba86c5508006b29313e3cde7d94c403f4e9a",
+      "providerUserMessageId": "de9349de-2403-4daf-b49b-b17c9991c261",
+      "providerAssistantMessageId": "2c54aa21-17bb-4fb3-8fd5-9146210f2107"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785768087729-xig1ngw8s",
+  "providerId": "claude",
+  "title": "讲授指定主题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785768087735,
+  "updatedAt": 1785769029600,
+  "lastResponseAt": 1785768597732,
+  "sessionId": "8d328aee-fd4d-4357-af12-78bea76ac7c6",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "8d328aee-fd4d-4357-af12-78bea76ac7c6"
+  },
+  "currentNote": "高等数学/正弦函数.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85760,
+    "contextWindow": 200000,
+    "contextTokens": 85911,
+    "percentage": 43
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787880486490-q79yencng",
+  "providerId": "claude",
+  "title": "绘制反三角函数图像",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787880486493,
+  "updatedAt": 1787882225023,
+  "lastResponseAt": 1787882225023,
+  "sessionId": "01c7bb6f-8b7a-4a7d-b012-3eefdabb4e59",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "01c7bb6f-8b7a-4a7d-b012-3eefdabb4e59"
+  },
+  "currentNote": "高等数学/极限.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 89,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50048,
+    "contextWindow": 200000,
+    "contextTokens": 50137,
+    "percentage": 25
+  }
+}

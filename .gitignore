@@ -1,0 +1,14 @@
+# ---- Obsidian 工作区状态（频繁变化，不需要备份） ----
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ---- 回收站 ----
+.trash/
+
+# ---- 系统文件 ----
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---- 敏感信息（含 API 密钥等，不要提交） ----
+deepseek api key.md
